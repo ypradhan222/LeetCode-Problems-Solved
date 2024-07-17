@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -28,4 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
+## Array
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
