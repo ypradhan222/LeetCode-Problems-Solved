@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+| [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2630-alternating-digit-sum) |
 ## Divide and Conquer
@@ -160,4 +161,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
