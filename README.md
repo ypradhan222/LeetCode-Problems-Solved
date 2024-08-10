@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2727-number-of-senior-citizens) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2630-alternating-digit-sum) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Divide and Conquer
 |  |
 | ------- |
