@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0326-power-of-three) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2630-alternating-digit-sum) |
@@ -178,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
