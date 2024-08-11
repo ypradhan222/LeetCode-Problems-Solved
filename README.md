@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2630-alternating-digit-sum) |
+| [3371-harshad-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Divide and Conquer
 |  |
