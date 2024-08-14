@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0948-sort-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0326-power-of-three) |
+| [1031-add-to-array-form-of-integer](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2630-alternating-digit-sum) |
