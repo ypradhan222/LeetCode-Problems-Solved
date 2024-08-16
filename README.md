@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
+| [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -60,11 +61,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
+| [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2288-count-operations-to-obtain-zero) |
+| [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
 ## Array
 |  |
