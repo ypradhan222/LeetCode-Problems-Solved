@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2727-number-of-senior-citizens) |
+| [3396-valid-word](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3396-valid-word) |
 ## Stack
 |  |
 | ------- |
