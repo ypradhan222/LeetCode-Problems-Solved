@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0326-power-of-three) |
 | [1031-add-to-array-form-of-integer](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
@@ -197,10 +198,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
