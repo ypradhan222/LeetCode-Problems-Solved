@@ -28,11 +28,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
@@ -210,5 +213,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
