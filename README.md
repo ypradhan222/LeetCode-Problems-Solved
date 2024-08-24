@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0948-sort-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1001-n-repeated-element-in-size-2n-array) |
