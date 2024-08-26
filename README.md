@@ -224,4 +224,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
