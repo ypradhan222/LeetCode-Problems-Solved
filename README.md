@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0948-sort-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -219,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
