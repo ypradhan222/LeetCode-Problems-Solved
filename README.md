@@ -228,23 +228,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
