@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0617-merge-two-binary-trees) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0617-merge-two-binary-trees) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0617-merge-two-binary-trees) |
@@ -271,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
