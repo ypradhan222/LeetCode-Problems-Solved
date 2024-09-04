@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0238-product-of-array-except-self) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
