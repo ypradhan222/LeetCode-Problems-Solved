@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0054-spiral-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Math
 |  |
