@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
