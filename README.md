@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
