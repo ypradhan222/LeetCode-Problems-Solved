@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0326-power-of-three) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
@@ -345,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
