@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0142-linked-list-cycle-ii) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
