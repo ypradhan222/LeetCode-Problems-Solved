@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
