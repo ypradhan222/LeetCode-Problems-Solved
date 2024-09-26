@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3034-points-that-intersect-with-cars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2727-number-of-senior-citizens](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2727-number-of-senior-citizens) |
+| [3034-points-that-intersect-with-cars](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3034-points-that-intersect-with-cars) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1833-find-the-highest-altitude) |
+| [3034-points-that-intersect-with-cars](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3034-points-that-intersect-with-cars) |
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
 ## Matrix
 |  |
