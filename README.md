@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0238-product-of-array-except-self) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Math
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
@@ -407,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 ## Combinatorics
