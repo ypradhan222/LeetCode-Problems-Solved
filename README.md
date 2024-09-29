@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
