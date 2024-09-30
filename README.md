@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0213-house-robber-ii) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
