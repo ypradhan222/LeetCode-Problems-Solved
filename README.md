@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -428,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
