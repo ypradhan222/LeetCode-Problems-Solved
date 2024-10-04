@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0551-student-attendance-record-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
+| [0800-letter-case-permutation](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0800-letter-case-permutation) |
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
+| [0800-letter-case-permutation](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0800-letter-case-permutation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
+| [0800-letter-case-permutation](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0800-letter-case-permutation) |
 ## Union Find
 |  |
 | ------- |
