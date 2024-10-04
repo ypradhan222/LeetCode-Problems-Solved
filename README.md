@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0647-palindromic-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
