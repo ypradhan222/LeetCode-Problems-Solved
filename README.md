@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
@@ -428,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 ## Union Find
 |  |
