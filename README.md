@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Binary Indexed Tree
 |  |
 | ------- |
