@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0404-sum-of-left-leaves) |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0543-diameter-of-binary-tree) |
@@ -566,4 +569,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0310-minimum-height-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
