@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0238-product-of-array-except-self) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -279,11 +281,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0451-sort-characters-by-frequency) |
@@ -580,4 +584,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
