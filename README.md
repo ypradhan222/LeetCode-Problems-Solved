@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0647-palindromic-substrings) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Topological Sort
