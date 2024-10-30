@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1297-maximum-number-of-balloons) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1848-sum-of-unique-elements) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0451-sort-characters-by-frequency) |
+| [1297-maximum-number-of-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1297-maximum-number-of-balloons) |
 | [1848-sum-of-unique-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
