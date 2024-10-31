@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0882-peak-index-in-a-mountain-array) |
