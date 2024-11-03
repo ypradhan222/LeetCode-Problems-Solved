@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
+| [1806-count-of-matches-in-tournament](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1806-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-add-to-array-form-of-integer](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1806-count-of-matches-in-tournament](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2288-count-operations-to-obtain-zero) |
