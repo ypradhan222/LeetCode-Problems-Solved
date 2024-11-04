@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0139-word-break) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0240-search-a-2d-matrix-ii) |
@@ -437,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -516,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0111-minimum-depth-of-binary-tree) |
