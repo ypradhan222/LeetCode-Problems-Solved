@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-count-common-words-with-one-occurrence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
