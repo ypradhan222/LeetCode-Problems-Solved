@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2288-count-operations-to-obtain-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
 ## Array
 |  |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2727-number-of-senior-citizens](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2727-number-of-senior-citizens) |
 | [3034-points-that-intersect-with-cars](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3034-points-that-intersect-with-cars) |
+| [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
