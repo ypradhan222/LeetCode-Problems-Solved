@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -465,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0832-binary-tree-pruning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0832-binary-tree-pruning) |
@@ -545,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0832-binary-tree-pruning) |
 ## Hash Function
@@ -647,4 +652,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
