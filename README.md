@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3396-valid-word](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3396-valid-word) |
+| [3617-find-the-original-typed-string-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
