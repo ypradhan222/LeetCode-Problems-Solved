@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2727-number-of-senior-citizens](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2727-number-of-senior-citizens) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3034-points-that-intersect-with-cars) |
 | [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
