@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3396-valid-word](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3617-find-the-original-typed-string-i) |
+| [3636-check-balanced-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
