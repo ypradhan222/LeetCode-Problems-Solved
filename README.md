@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0148-sort-list) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
