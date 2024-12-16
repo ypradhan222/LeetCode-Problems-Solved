@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
