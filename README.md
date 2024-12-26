@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
@@ -767,10 +769,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2507-number-of-common-factors) |
 ## Sliding Window
 |  |
