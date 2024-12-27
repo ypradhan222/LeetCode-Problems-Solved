@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0264-ugly-number-ii) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 ## Queue
@@ -821,4 +824,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0374-guess-number-higher-or-lower) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
