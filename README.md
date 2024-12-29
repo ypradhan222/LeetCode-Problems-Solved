@@ -578,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1731-even-odd-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1731-even-odd-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1731-even-odd-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1731-even-odd-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1731-even-odd-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
