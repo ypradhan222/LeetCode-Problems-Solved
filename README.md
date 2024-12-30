@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3625-stone-removal-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3625-stone-removal-game) |
 ## Array
 |  |
 | ------- |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3371-harshad-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3625-stone-removal-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3625-stone-removal-game) |
 ## Divide and Conquer
 |  |
 | ------- |
