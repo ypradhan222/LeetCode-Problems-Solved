@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1660-thousand-separator) |
+| [1944-truncate-sentence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1944-truncate-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2128-reverse-prefix-of-word) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1848-sum-of-unique-elements) |
+| [1944-truncate-sentence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
