@@ -643,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -684,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1254-deepest-leaves-sum) |
@@ -773,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
@@ -809,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
