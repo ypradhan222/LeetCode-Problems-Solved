@@ -645,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1254-deepest-leaves-sum) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
