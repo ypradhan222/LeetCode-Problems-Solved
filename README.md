@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1297-maximum-number-of-balloons) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1660-thousand-separator) |
@@ -837,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Topological Sort
