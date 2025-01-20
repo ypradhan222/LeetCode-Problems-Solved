@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3396-valid-word](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3396-valid-word) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3636-check-balanced-string) |
 ## Stack
@@ -842,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Topological Sort
 |  |
 | ------- |
