@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0040-combination-sum-ii) |
