@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0141-linked-list-cycle) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0048-rotate-image) |
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
@@ -883,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Interactive
