@@ -675,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1558-course-schedule-iv](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1254-deepest-leaves-sum) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1558-course-schedule-iv](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1558-course-schedule-iv) |
 | [1731-even-odd-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -843,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0871-keys-and-rooms) |
+| [1558-course-schedule-iv](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
@@ -874,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0310-minimum-height-trees) |
+| [1558-course-schedule-iv](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1558-course-schedule-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
