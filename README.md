@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3034-points-that-intersect-with-cars) |
 | [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -683,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -728,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -812,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
