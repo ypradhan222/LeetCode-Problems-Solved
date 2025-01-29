@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0684-redundant-connection](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0832-binary-tree-pruning) |
@@ -716,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2121-find-if-path-exists-in-graph) |
@@ -852,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1558-course-schedule-iv) |
