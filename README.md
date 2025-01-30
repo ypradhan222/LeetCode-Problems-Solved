@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0041-first-missing-positive) |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
