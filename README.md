@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1222-remove-covered-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1222-remove-covered-intervals) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
+| [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0800-letter-case-permutation) |
+| [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
+| [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
 ## Memoization
 |  |
 | ------- |
@@ -811,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0800-letter-case-permutation) |
+| [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
 ## Union Find
 |  |
 | ------- |
@@ -926,4 +930,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0146-lru-cache) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
