@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3324-split-the-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3324-split-the-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
