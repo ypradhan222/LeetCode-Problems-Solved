@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1297-maximum-number-of-balloons) |
+| [1364-tuple-with-same-product](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1222-remove-covered-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1222-remove-covered-intervals) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1364-tuple-with-same-product](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1297-maximum-number-of-balloons) |
+| [1364-tuple-with-same-product](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1848-sum-of-unique-elements) |
