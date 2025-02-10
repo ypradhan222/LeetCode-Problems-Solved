@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3396-valid-word](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3396-valid-word) |
+| [3447-clear-digits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3617-find-the-original-typed-string-i) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3447-clear-digits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3625-stone-removal-game) |
 ## Array
