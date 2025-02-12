@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
