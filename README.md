@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1833-find-the-highest-altitude) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/3034-points-that-intersect-with-cars) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-add-to-array-form-of-integer](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1806-count-of-matches-in-tournament) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -505,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -961,4 +965,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
