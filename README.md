@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1806-count-of-matches-in-tournament) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-truncate-sentence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Math
