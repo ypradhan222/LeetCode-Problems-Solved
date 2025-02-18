@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0575-distribute-candies) |
@@ -962,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Interactive
