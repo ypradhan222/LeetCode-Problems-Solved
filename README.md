@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0507-perfect-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
@@ -555,11 +556,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0486-predict-the-winner) |
+| [1086-divisor-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -593,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1086-divisor-game](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1236-n-th-tribonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1418-fair-distribution-of-cookies) |
 ## Memoization
