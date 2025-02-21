@@ -17,31 +17,26 @@ public:
         // root->val=0;
         if(root->left){
             root->left->val=2*root->val+1;
+            s.insert(root->left->val);
             recover(root->left);
         }
         if(root->right){
             root->right->val=2*root->val+2;
+            s.insert(root->right->val);
             recover(root->right);
         }
     }
     TreeNode* root;
+    unordered_set<int> s;
     FindElements(TreeNode* root){
         root->val=0;
         recover(root);
         this->root = root;
+        s.insert(0);
     }
     bool find(int target) {
-        queue<TreeNode*> que;
-        que.push(root);
-        while(!que.empty()){
-            int size=que.size();
-            for(int i=0;i<size;i++){
-                TreeNode* curr= que.front();
-                que.pop();
-                if(curr->val==target) return true;
-                if(curr->left) que.push(curr->left);
-                if(curr->right) que.push(curr->right);
-            }
+        if(s.count(target)){
+            return true;
         }
         return false;
     }
