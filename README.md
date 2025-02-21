@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1297-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1731-even-odd-tree) |
@@ -736,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -782,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1558-course-schedule-iv](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1558-course-schedule-iv) |
@@ -835,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1731-even-odd-tree) |
