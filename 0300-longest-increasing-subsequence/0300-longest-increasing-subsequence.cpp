@@ -1,18 +1,33 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        vector<int> dp(nums.size(),1);
-        int maxLength=1;
-        for(int i=1;i<nums.size();i++){
-            for(int j=0;j<i;j++){
-                if(nums[j]<nums[i]){
-                    dp[i]=max(dp[i],dp[j]+1);
-                }
+        vector<int> res;
+         res.push_back(nums[0]); 
+        for(int i=1;i<size(nums);i++){
+            if(res.back()<nums[i]){
+                res.push_back(nums[i]); 
+            }
+            else{
+                int ind=bSearch(res,nums[i]);
+                res[ind]= nums[i];
             }
         }
-        for(int num:dp){
-            maxLength= max(maxLength,num);
+        return res.size();
+    }
+    int bSearch(vector<int>& nums,int target){
+        int i=0;int j=size(nums)-1;
+        while(i<=j){
+            int mid=i+(j-i)/2;
+            if(nums[mid]==target){
+                return mid;
+            
+            }
+            else if(nums[mid]<target){
+                i=mid+1;
+
+            }
+            else j=mid-1;
         }
-        return maxLength;
+        return i;
     }
 };
