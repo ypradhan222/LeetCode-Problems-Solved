@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [1028-interval-list-intersections](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1028-interval-list-intersections) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -923,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
