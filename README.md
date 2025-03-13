@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
+| [0817-design-hashmap](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0328-odd-even-linked-list) |
+| [0817-design-hashmap](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0817-design-hashmap) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0817-design-hashmap](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0817-design-hashmap) |
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0907-koko-eating-bananas) |
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0225-implement-stack-using-queues) |
+| [0817-design-hashmap](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
@@ -881,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0817-design-hashmap) |
 ## Backtracking
 |  |
 | ------- |
