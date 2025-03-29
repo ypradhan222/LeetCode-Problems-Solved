@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0874-backspace-string-compare) |
 | [1028-interval-list-intersections](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1028-interval-list-intersections) |
+| [1894-merge-strings-alternately](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1619-path-crossing) |
 | [1660-thousand-separator](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1660-thousand-separator) |
+| [1894-merge-strings-alternately](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1944-truncate-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/2010-check-if-word-equals-summation-of-two-words) |
