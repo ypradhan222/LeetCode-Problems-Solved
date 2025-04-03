@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0782-jewels-and-stones) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0658-find-k-closest-elements) |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ypradhan222/LeetCode-Problems-Solved/tree/master/1477-product-of-the-last-k-numbers) |
